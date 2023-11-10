@@ -57,4 +57,6 @@ function validSolution(board) {
     [2, 8, 7, 4, 1, 9, 6, 3, 5],
     [3, 0, 0, 4, 8, 1, 1, 7, 9]
   ])); // => false
-    
+
+  
+console.log();  
